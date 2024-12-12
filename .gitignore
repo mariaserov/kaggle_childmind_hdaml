@@ -1,3 +1,8 @@
+# own files
+
+test.py
+working.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
