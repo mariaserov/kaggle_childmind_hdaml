@@ -88,5 +88,5 @@ def pciat_sii_pred(data, model):
 
     time2 = time.time()
     print(f"time to run: {time2-time1} sec")
-    return y_test, y_pred
+    return model, (y_test, y_pred)
 
